@@ -1,0 +1,8 @@
+import src.main
+import lib.drivers.config
+import lib.layoutlib.xml
+
+
+runner >> port.main.java
+
+main(runner)
